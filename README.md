@@ -124,6 +124,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 12 | [Dynamic Programming](problems/12-dynamic-programming/README.md) | The best move depends on where you already are |
 | 13 | [Two Sum II](problems/13-two-sum-ii/README.md) | Establish order first, then adjust strategy |
 | 14 | [Boats to Save People](problems/14-boats-to-save-people/README.md) | Handle the bottleneck first, save the flexible filler for last |
+| 15 | [Move Zeroes](problems/15-move-zeroes/README.md) | Don't move the noise — compact what matters |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 
