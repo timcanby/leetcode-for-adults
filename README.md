@@ -10,10 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="#--what-is-this"><b>What is this?</b></a> &nbsp;·&nbsp;
-  <a href="#--the-template"><b>The Template</b></a> &nbsp;·&nbsp;
-  <a href="#--the-problems"><b>The Problems</b></a> &nbsp;·&nbsp;
-  <a href="#--license"><b>License</b></a>
+  <a href="#-what-is-this"><b>What is this?</b></a> &nbsp;·&nbsp;
+  <a href="#-the-template"><b>The Template</b></a> &nbsp;·&nbsp;
+  <a href="#-how-to-add-a-new-entry"><b>Add an Entry</b></a> &nbsp;·&nbsp;
+  <a href="#-the-catalog"><b>The Catalog</b></a> &nbsp;·&nbsp;
+  <a href="#-license"><b>License</b></a>
 </p>
 
 ---
@@ -24,26 +25,70 @@
 
 Every classic problem encodes a pattern that shows up long after the interview ends: in how you manage a team, how you negotiate with a bottleneck, how you triage a week of meetings, and how you decide what to forget.
 
-This repo reframes twelve well-known algorithm problems as **workplace lessons, life lessons, and anti-patterns**. The structure is the same every time so your brain can pattern-match instead of memorize.
+This repo reframes well-known algorithm problems as **workplace lessons, life lessons, and anti-patterns** — using one repeatable template. The structure stays the same every time so your brain can pattern-match instead of memorize. New entries can be added by anyone, anytime, by filling in the template below.
 
 ---
 
 ## 📐 The Template
 
-Every problem follows the same four-act structure:
+Every entry follows the **same four-act structure** — plus an optional bonus act:
 
-| Act | Question it answers |
-|-----|---------------------|
-| **🧩 Algorithm** | What does the algorithm actually do? |
-| **🏢 Workplace** | Where does this pattern show up at work? |
-| **🌍 Life** | Where does it show up in everyday life? |
-| **⚠️ Anti-pattern** | What's the seductive but wrong way people apply it? |
+| Act | Required? | Emoji | Question it answers |
+|-----|-----------|-------|---------------------|
+| **Algorithm** | ✅ Yes | 🧩 | What does the algorithm actually do? |
+| **Workplace** | ✅ Yes | 🏢 | Where does this pattern show up at work? |
+| **Life** | ✅ Yes | 🌍 | Where does it show up in everyday life? |
+| **Anti-pattern** | ✅ Yes | ⚠️ | What's the seductive but wrong way people apply it? |
+| **Power Struggle** | ⬜ Optional | 🪞 | Use when the workplace dynamic is juicy enough to deserve its own section (e.g. authority, gatekeeping, faction dynamics) |
 
-> Some problems get a bonus act — **🪞 Power Struggle** — when the workplace dynamic is juicy enough to deserve its own section.
+### The blank template
+
+Copy this block, fill it in, and paste it under `## 📖 The Catalog`:
+
+```markdown
+### N. [Problem Name]
+
+> *[One-sentence problem description.]*
+
+**🧩 Algorithm**
+[Explain what the algorithm does, plainly. Mention complexity if it adds intuition.]
+
+**🏢 Workplace**
+[Where does this pattern appear at work? Be specific — name the scenario, not just the vibe.]
+
+**🪞 Power Struggle**  <!-- optional: include only when the power dynamic is the real story -->
+[When authority, permission, or faction structure is the bottleneck, call it out here.]
+
+**🌍 Life**
+[Where does it show up outside work? Keep it relatable — energy, relationships, habits, time.]
+
+**⚠️ Anti-pattern**
+[What do people instinctively do that sounds right but is wrong? Frame it as a quote, then debunk it.]
+```
+
+### How to fill it well
+
+- **Algorithm** → Plain English first, complexity notation second. The reader should understand the *idea* before the Big-O.
+- **Workplace** → Name a concrete scenario ("two recurring meetings covering the same agenda") not a vibe ("communication is hard").
+- **Life** → One relatable example. Not a list. The reader should nod, not take notes.
+- **Anti-pattern** → Start with the wrong instinct in quotes, then explain *why* it's wrong. The format is: *"Wrong instinct."* → why it's wrong → what to do instead.
+- **Power Struggle** → Only when the real bottleneck is *power*, not *effort*. Skip it for problems where the workplace lesson is about process, not politics.
 
 ---
 
-## 📚 The Problems
+## ➕ How to Add a New Entry
+
+1. Pick an algorithm problem (classic LeetCode, textbook, or real-world).
+2. Copy the [blank template](#the-blank-template) above.
+3. Fill in all four required acts. Add **Power Struggle** only if it fits.
+4. Add a row to the [Table of Contents](#-the-catalog) with `#`, problem name, and a one-line core lesson.
+5. Commit with message: `docs: add [Problem Name] entry`.
+
+> **Rule of thumb:** if you can't fill all four acts with a concrete example, the problem isn't ready yet. Come back when the metaphor clicks.
+
+---
+
+## 📖 The Catalog
 
 ### Table of Contents
 
@@ -61,6 +106,11 @@ Every problem follows the same four-act structure:
 | 10 | [Union Find](#10-union-find) | Who is actually on whose side? |
 | 11 | [Dijkstra](#11-dijkstra) | Shortest path ≠ most comfortable steps |
 | 12 | [Dynamic Programming](#12-dynamic-programming) | The best move depends on where you already are |
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  Entries below. Copy the blank template from "The Template"   -->
+<!--  section, fill it in, and add it above the meta-lesson.        -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ---
 
@@ -189,7 +239,7 @@ Treat all *feedback* respectfully, but don't treat all *issues* equally. The iss
 Maintain a bounded store. On access, mark the item as recently used. When the store is full and a new item arrives, evict the least recently used one. Capacity is fixed; recency is the policy.
 
 **🏢 Workplace**
-Your working memory for context is finite. You can't hold every project, every同事's preference, every API quirk simultaneously. The healthy move: let the stale stuff fade, and **build a system to reload it fast when needed**. Docs, wikis, and bookmarks are your eviction-aware reload mechanism.
+Your working memory for context is finite. You can't hold every project, every colleague's preference, every API quirk simultaneously. The healthy move: let the stale stuff fade, and **build a system to reload it fast when needed**. Docs, wikis, and bookmarks are your eviction-aware reload mechanism.
 
 **🌍 Life**
 Forgetting is not a failure — it's garbage collection. The skill isn't never forgetting; it's knowing where to look it up. A well-organized note system means "I forgot" costs $O(1)$ to fix instead of $O(\text{awkward})$.
@@ -292,6 +342,11 @@ Most life problems are state-based, not step-based. *"Should I move / switch car
 **⚠️ Anti-pattern**
 *"What's the right choice in general?"*
 There is no right choice in general. There is a right choice *from your current state*. Asking the question without the state is like running DP without the table — you're recomputing from scratch every time and getting a worse answer.
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  Add new entries above this line.                              -->
+<!--  Don't forget to update the Table of Contents.                 -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ---
 
