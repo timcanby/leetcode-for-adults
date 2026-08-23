@@ -126,6 +126,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 14 | [Boats to Save People](problems/14-boats-to-save-people/README.md) | Handle the bottleneck first, save the flexible filler for last |
 | 15 | [Move Zeroes](problems/15-move-zeroes/README.md) | Don't move the noise — compact what matters |
 | 16 | [Remove Duplicates from Sorted Array](problems/16-remove-duplicates-from-sorted-array/README.md) | Sort first, deduplicate second |
+| 17 | [Linked List Cycle](problems/17-linked-list-cycle/README.md) | You don't need memory to detect a cycle — you need dynamics |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 

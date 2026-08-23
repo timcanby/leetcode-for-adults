@@ -126,6 +126,7 @@
 | 14 | [Boats to Save People](problems/14-boats-to-save-people/README.ja.md) | 先にボトルネックを解決し、柔軟な充填材は最後に残す |
 | 15 | [Move Zeroes](problems/15-move-zeroes/README.ja.md) | ノイズを動かすな——大事なものを圧縮せよ |
 | 16 | [Remove Duplicates](problems/16-remove-duplicates-from-sorted-array/README.ja.md) | 先にソートし、それから重複を排除する |
+| 17 | [Linked List Cycle](problems/17-linked-list-cycle/README.ja.md) | サイクルの検出に記憶は不要——力学が必要 |
 
 > 💡 新しい問題を追加したい？ 上の[新しいエントリーの追加方法](#-新しいエントリーの追加方法)を参照。
 
