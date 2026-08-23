@@ -10,6 +10,13 @@
 </p>
 
 <p align="center">
+  🌐 <b>Language:</b>
+  &nbsp;<a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;<a href="README.zh.md">中文</a>
+  &nbsp;·&nbsp;<a href="README.ja.md">日本語</a>
+</p>
+
+<p align="center">
   <a href="#-what-is-this"><b>What is this?</b></a> &nbsp;·&nbsp;
   <a href="#-the-template"><b>The Template</b></a> &nbsp;·&nbsp;
   <a href="#-how-to-add-a-new-entry"><b>Add an Entry</b></a> &nbsp;·&nbsp;
