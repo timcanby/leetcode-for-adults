@@ -125,6 +125,7 @@
 | 13 | [Two Sum II](problems/13-two-sum-ii/README.zh.md) | 先建立秩序，再调整战略 |
 | 14 | [Boats to Save People](problems/14-boats-to-save-people/README.zh.md) | 先解决瓶颈，简单的事留作灵活填充 |
 | 15 | [Move Zeroes](problems/15-move-zeroes/README.zh.md) | 别搬噪声——压实重要的 |
+| 16 | [Remove Duplicates](problems/16-remove-duplicates-from-sorted-array/README.zh.md) | 先排序，再去重 |
 
 > 💡 想添加新题目？参见上方的[如何添加新条目](#-如何添加新条目)。
 

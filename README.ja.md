@@ -125,6 +125,7 @@
 | 13 | [Two Sum II](problems/13-two-sum-ii/README.ja.md) | 先に秩序を確立し、それから戦略を調整する |
 | 14 | [Boats to Save People](problems/14-boats-to-save-people/README.ja.md) | 先にボトルネックを解決し、柔軟な充填材は最後に残す |
 | 15 | [Move Zeroes](problems/15-move-zeroes/README.ja.md) | ノイズを動かすな——大事なものを圧縮せよ |
+| 16 | [Remove Duplicates](problems/16-remove-duplicates-from-sorted-array/README.ja.md) | 先にソートし、それから重複を排除する |
 
 > 💡 新しい問題を追加したい？ 上の[新しいエントリーの追加方法](#-新しいエントリーの追加方法)を参照。
 
