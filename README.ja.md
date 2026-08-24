@@ -131,6 +131,7 @@
 | 19 | [Sliding Window](problems/19-sliding-window/README.ja.md) | right は未知に拡張し、left は既知を修復する |
 | 20 | [Find All Anagrams](problems/20-find-all-anagrams-in-a-string/README.ja.md) | フレームが固定なら変えるな——スライドして確認する |
 | 21 | [Longest Repeating Character Replacement](problems/21-longest-repeating-character-replacement/README.ja.md) | ノイズゼロは要らない——予算に収まるノイズが要る |
+| 22 | [Find First and Last Position](problems/22-find-first-and-last-position-in-sorted-array/README.ja.md) | 境界を見つけることは値を見つけることと同じではない |
 
 > 💡 新しい問題を追加したい？ 上の[新しいエントリーの追加方法](#-新しいエントリーの追加方法)を参照。
 

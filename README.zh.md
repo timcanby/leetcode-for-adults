@@ -131,6 +131,7 @@
 | 19 | [Sliding Window](problems/19-sliding-window/README.zh.md) | right 扩进未知，left 修复已知 |
 | 20 | [Find All Anagrams](problems/20-find-all-anagrams-in-a-string/README.zh.md) | 框架固定就别改——滑过去，查一查 |
 | 21 | [Longest Repeating Character Replacement](problems/21-longest-repeating-character-replacement/README.zh.md) | 不需要零噪声——需要噪声在预算以内 |
+| 22 | [Find First and Last Position](problems/22-find-first-and-last-position-in-sorted-array/README.zh.md) | 找边界不等于找值 |
 
 > 💡 想添加新题目？参见上方的[如何添加新条目](#-如何添加新条目)。
 
