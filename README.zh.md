@@ -129,6 +129,7 @@
 | 17 | [Linked List Cycle](problems/17-linked-list-cycle/README.zh.md) | 检测环不需要记忆——需要动力学 |
 | 18 | [3Sum](problems/18-3sum/README.zh.md) | 思绪理清后就往前走，不要回头 |
 | 19 | [Sliding Window](problems/19-sliding-window/README.zh.md) | right 扩进未知，left 修复已知 |
+| 20 | [Find All Anagrams](problems/20-find-all-anagrams-in-a-string/README.zh.md) | 框架固定就别改——滑过去，查一查 |
 
 > 💡 想添加新题目？参见上方的[如何添加新条目](#-如何添加新条目)。
 

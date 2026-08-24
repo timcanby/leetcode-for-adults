@@ -129,6 +129,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 17 | [Linked List Cycle](problems/17-linked-list-cycle/README.md) | You don't need memory to detect a cycle — you need dynamics |
 | 18 | [3Sum](problems/18-3sum/README.md) | Once your thoughts are sorted, walk forward — don't look back |
 | 19 | [Sliding Window](problems/19-sliding-window/README.md) | Right expands into the unknown; left repairs the known |
+| 20 | [Find All Anagrams](problems/20-find-all-anagrams-in-a-string/README.md) | When the frame is fixed, don't resize it — slide and check |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 
