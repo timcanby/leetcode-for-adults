@@ -127,6 +127,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 15 | [Move Zeroes](problems/15-move-zeroes/README.md) | Don't move the noise — compact what matters |
 | 16 | [Remove Duplicates from Sorted Array](problems/16-remove-duplicates-from-sorted-array/README.md) | Sort first, deduplicate second |
 | 17 | [Linked List Cycle](problems/17-linked-list-cycle/README.md) | You don't need memory to detect a cycle — you need dynamics |
+| 18 | [3Sum](problems/18-3sum/README.md) | Once your thoughts are sorted, walk forward — don't look back |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 
