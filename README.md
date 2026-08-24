@@ -128,6 +128,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 16 | [Remove Duplicates from Sorted Array](problems/16-remove-duplicates-from-sorted-array/README.md) | Sort first, deduplicate second |
 | 17 | [Linked List Cycle](problems/17-linked-list-cycle/README.md) | You don't need memory to detect a cycle — you need dynamics |
 | 18 | [3Sum](problems/18-3sum/README.md) | Once your thoughts are sorted, walk forward — don't look back |
+| 19 | [Sliding Window](problems/19-sliding-window/README.md) | Right expands into the unknown; left repairs the known |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 

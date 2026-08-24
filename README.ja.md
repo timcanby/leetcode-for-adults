@@ -128,6 +128,7 @@
 | 16 | [Remove Duplicates](problems/16-remove-duplicates-from-sorted-array/README.ja.md) | 先にソートし、それから重複を排除する |
 | 17 | [Linked List Cycle](problems/17-linked-list-cycle/README.ja.md) | サイクルの検出に記憶は不要——力学が必要 |
 | 18 | [3Sum](problems/18-3sum/README.ja.md) | 思考がソートされたら前に進め——振り返るな |
+| 19 | [Sliding Window](problems/19-sliding-window/README.ja.md) | right は未知に拡張し、left は既知を修復する |
 
 > 💡 新しい問題を追加したい？ 上の[新しいエントリーの追加方法](#-新しいエントリーの追加方法)を参照。
 
