@@ -130,6 +130,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 18 | [3Sum](problems/18-3sum/README.md) | Once your thoughts are sorted, walk forward — don't look back |
 | 19 | [Sliding Window](problems/19-sliding-window/README.md) | Right expands into the unknown; left repairs the known |
 | 20 | [Find All Anagrams](problems/20-find-all-anagrams-in-a-string/README.md) | When the frame is fixed, don't resize it — slide and check |
+| 21 | [Longest Repeating Character Replacement](problems/21-longest-repeating-character-replacement/README.md) | You don't need zero noise — you need noise within your budget |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 
