@@ -132,6 +132,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 20 | [Find All Anagrams](problems/20-find-all-anagrams-in-a-string/README.md) | When the frame is fixed, don't resize it — slide and check |
 | 21 | [Longest Repeating Character Replacement](problems/21-longest-repeating-character-replacement/README.md) | You don't need zero noise — you need noise within your budget |
 | 22 | [Find First and Last Position](problems/22-find-first-and-last-position-in-sorted-array/README.md) | Finding the boundaries is not the same as finding the value |
+| 23 | [Bubble Sort](problems/23-bubble-sort/README.md) | The biggest problems surface first — and the absence of friction is the signal you're done |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 
