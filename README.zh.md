@@ -134,6 +134,7 @@
 | 22 | [Find First and Last Position](problems/22-find-first-and-last-position-in-sorted-array/README.zh.md) | 找边界不等于找值 |
 | 23 | [Bubble Sort](problems/23-bubble-sort/README.zh.md) | 最大的问题最先浮现——摩擦消失就是完成的信号 |
 | 24 | [Selection Sort](problems/24-selection-sort/README.zh.md) | 看清一切再承诺——承诺了就不回头 |
+| 25 | [Insertion Sort](problems/25-insertion-sort/README.zh.md) | 不在真空中选择——在已安定中找到自己的层级 |
 
 > 💡 想添加新题目？参见上方的[如何添加新条目](#-如何添加新条目)。
 

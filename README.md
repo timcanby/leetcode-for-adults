@@ -134,6 +134,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 22 | [Find First and Last Position](problems/22-find-first-and-last-position-in-sorted-array/README.md) | Finding the boundaries is not the same as finding the value |
 | 23 | [Bubble Sort](problems/23-bubble-sort/README.md) | The biggest problems surface first — and the absence of friction is the signal you're done |
 | 24 | [Selection Sort](problems/24-selection-sort/README.md) | See everything before committing — then commit irrevocably |
+| 25 | [Insertion Sort](problems/25-insertion-sort/README.md) | You don't choose in isolation — you find your level among what's settled |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 
