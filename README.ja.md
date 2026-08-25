@@ -137,6 +137,7 @@
 | 25 | [Insertion Sort](problems/25-insertion-sort/README.ja.md) | 孤立して選ぶのではない——安定したものの中で自分のレベルを見つける |
 | 26 | [Merge Sort](problems/26-merge-sort/README.ja.md) | 大きな問題はまだ半分に切っていない小さな問題にすぎない |
 | 27 | [Quick Sort](problems/27-quick-sort/README.ja.md) | 進歩には完璧なバランスは要らない——ピボットが要る |
+| 28 | [Heap Sort](problems/28-heap-sort/README.ja.md) | データを直接ソートするのではない——構造を課し、構造が代わりにソートする |
 
 > 💡 新しい問題を追加したい？ 上の[新しいエントリーの追加方法](#-新しいエントリーの追加方法)を参照。
 

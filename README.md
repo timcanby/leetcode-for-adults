@@ -137,6 +137,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 25 | [Insertion Sort](problems/25-insertion-sort/README.md) | You don't choose in isolation — you find your level among what's settled |
 | 26 | [Merge Sort](problems/26-merge-sort/README.md) | Big problems are just small problems you haven't cut in half yet |
 | 27 | [Quick Sort](problems/27-quick-sort/README.md) | Progress doesn't require perfect balance — it requires a pivot |
+| 28 | [Heap Sort](problems/28-heap-sort/README.md) | You don't sort the data — you impose a structure, and the structure sorts for you |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 
