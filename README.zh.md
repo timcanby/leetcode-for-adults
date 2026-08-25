@@ -138,6 +138,7 @@
 | 26 | [Merge Sort](problems/26-merge-sort/README.zh.md) | 大问题只是你还没对半切的小问题 |
 | 27 | [Quick Sort](problems/27-quick-sort/README.zh.md) | 进步不需要完美平衡——需要一个 pivot |
 | 28 | [Heap Sort](problems/28-heap-sort/README.zh.md) | 你不直接排序数据——你强加结构，结构替你排序 |
+| 29 | [Counting Sort](problems/29-counting-sort/README.zh.md) | 能计数的就不需要比较——范围就是答案 |
 
 > 💡 想添加新题目？参见上方的[如何添加新条目](#-如何添加新条目)。
 
