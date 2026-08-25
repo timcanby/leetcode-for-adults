@@ -133,6 +133,7 @@
 | 21 | [Longest Repeating Character Replacement](problems/21-longest-repeating-character-replacement/README.ja.md) | ノイズゼロは要らない——予算に収まるノイズが要る |
 | 22 | [Find First and Last Position](problems/22-find-first-and-last-position-in-sorted-array/README.ja.md) | 境界を見つけることは値を見つけることと同じではない |
 | 23 | [Bubble Sort](problems/23-bubble-sort/README.ja.md) | 最大の問題が最初に表面化する——摩擦の不在が完了のシグナル |
+| 24 | [Selection Sort](problems/24-selection-sort/README.ja.md) | 全てを見てからコミットする——そして取り消し不能に |
 
 > 💡 新しい問題を追加したい？ 上の[新しいエントリーの追加方法](#-新しいエントリーの追加方法)を参照。
 

@@ -133,6 +133,7 @@
 | 21 | [Longest Repeating Character Replacement](problems/21-longest-repeating-character-replacement/README.zh.md) | 不需要零噪声——需要噪声在预算以内 |
 | 22 | [Find First and Last Position](problems/22-find-first-and-last-position-in-sorted-array/README.zh.md) | 找边界不等于找值 |
 | 23 | [Bubble Sort](problems/23-bubble-sort/README.zh.md) | 最大的问题最先浮现——摩擦消失就是完成的信号 |
+| 24 | [Selection Sort](problems/24-selection-sort/README.zh.md) | 看清一切再承诺——承诺了就不回头 |
 
 > 💡 想添加新题目？参见上方的[如何添加新条目](#-如何添加新条目)。
 
