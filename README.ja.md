@@ -139,6 +139,7 @@
 | 27 | [Quick Sort](problems/27-quick-sort/README.ja.md) | 進歩には完璧なバランスは要らない——ピボットが要る |
 | 28 | [Heap Sort](problems/28-heap-sort/README.ja.md) | データを直接ソートするのではない——構造を課し、構造が代わりにソートする |
 | 29 | [Counting Sort](problems/29-counting-sort/README.ja.md) | 数えられるものを比較する必要はない——範囲が答えだ |
+| 30 | [Bucket Sort](problems/30-bucket-sort/README.ja.md) | 散らしてからソートせよ——分解が部分をソート可能にする |
 
 > 💡 新しい問題を追加したい？ 上の[新しいエントリーの追加方法](#-新しいエントリーの追加方法)を参照。
 
