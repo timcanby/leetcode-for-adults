@@ -135,6 +135,7 @@
 | 23 | [Bubble Sort](problems/23-bubble-sort/README.ja.md) | 最大の問題が最初に表面化する——摩擦の不在が完了のシグナル |
 | 24 | [Selection Sort](problems/24-selection-sort/README.ja.md) | 全てを見てからコミットする——そして取り消し不能に |
 | 25 | [Insertion Sort](problems/25-insertion-sort/README.ja.md) | 孤立して選ぶのではない——安定したものの中で自分のレベルを見つける |
+| 26 | [Merge Sort](problems/26-merge-sort/README.ja.md) | 大きな問題はまだ半分に切っていない小さな問題にすぎない |
 
 > 💡 新しい問題を追加したい？ 上の[新しいエントリーの追加方法](#-新しいエントリーの追加方法)を参照。
 

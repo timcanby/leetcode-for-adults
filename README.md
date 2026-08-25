@@ -135,6 +135,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 23 | [Bubble Sort](problems/23-bubble-sort/README.md) | The biggest problems surface first — and the absence of friction is the signal you're done |
 | 24 | [Selection Sort](problems/24-selection-sort/README.md) | See everything before committing — then commit irrevocably |
 | 25 | [Insertion Sort](problems/25-insertion-sort/README.md) | You don't choose in isolation — you find your level among what's settled |
+| 26 | [Merge Sort](problems/26-merge-sort/README.md) | Big problems are just small problems you haven't cut in half yet |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 
