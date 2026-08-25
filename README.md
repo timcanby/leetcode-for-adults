@@ -141,6 +141,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 29 | [Counting Sort](problems/29-counting-sort/README.md) | You don't need to compare what you can count — the range is the answer |
 | 30 | [Bucket Sort](problems/30-bucket-sort/README.md) | Scatter before you sort — the decomposition makes the parts sortable |
 | 31 | [Delete a Value from a Linked List](problems/31-delete-a-value-from-a-linked-list/README.md) | You don't destroy the node — you redirect the pointer that reached it |
+| 32 | [Majority Element](problems/32-majority-element/README.md) | You don't find the majority by counting — you find it by canceling |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 

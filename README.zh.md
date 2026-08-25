@@ -141,6 +141,7 @@
 | 29 | [Counting Sort](problems/29-counting-sort/README.zh.md) | 能计数的就不需要比较——范围就是答案 |
 | 30 | [Bucket Sort](problems/30-bucket-sort/README.zh.md) | 先散再排——分解让部分变得可排 |
 | 31 | [Delete a Value from a Linked List](problems/31-delete-a-value-from-a-linked-list/README.zh.md) | 你不销毁节点——你重定向指向它的指针 |
+| 32 | [Majority Element](problems/32-majority-element/README.zh.md) | 多数不是靠计数找到的——是靠抵消找到的 |
 
 > 💡 想添加新题目？参见上方的[如何添加新条目](#-如何添加新条目)。
 
