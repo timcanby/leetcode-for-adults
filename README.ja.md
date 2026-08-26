@@ -143,6 +143,7 @@
 | 31 | [Delete a Value from a Linked List](problems/31-delete-a-value-from-a-linked-list/README.ja.md) | ノードを破壊するのではない——それに届くポインタをリダイレクトする |
 | 32 | [Majority Element](problems/32-majority-element/README.ja.md) | 過半数は数えて見つけるのではない——相殺して見つける |
 | 33 | [Longest Palindromic Substring](problems/33-longest-palindromic-substring/README.ja.md) | 長い回文は一致する両端を着けた短い回文——誠実さは内側から外へ築く |
+| 34 | [Trapping Rain Water](problems/34-trapping-rain-water/README.ja.md) | 保持できるものは弱い壁で上限が決まる——高い壁ではなく低い壁を上げよ |
 
 > 💡 新しい問題を追加したい？ 上の[新しいエントリーの追加方法](#-新しいエントリーの追加方法)を参照。
 
