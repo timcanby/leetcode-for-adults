@@ -142,6 +142,7 @@
 | 30 | [Bucket Sort](problems/30-bucket-sort/README.ja.md) | 散らしてからソートせよ——分解が部分をソート可能にする |
 | 31 | [Delete a Value from a Linked List](problems/31-delete-a-value-from-a-linked-list/README.ja.md) | ノードを破壊するのではない——それに届くポインタをリダイレクトする |
 | 32 | [Majority Element](problems/32-majority-element/README.ja.md) | 過半数は数えて見つけるのではない——相殺して見つける |
+| 33 | [Longest Palindromic Substring](problems/33-longest-palindromic-substring/README.ja.md) | 長い回文は一致する両端を着けた短い回文——誠実さは内側から外へ築く |
 
 > 💡 新しい問題を追加したい？ 上の[新しいエントリーの追加方法](#-新しいエントリーの追加方法)を参照。
 

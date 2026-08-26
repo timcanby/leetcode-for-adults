@@ -142,6 +142,7 @@ Each problem lives in its own directory (`problems/NN-slug/`) with three languag
 | 30 | [Bucket Sort](problems/30-bucket-sort/README.md) | Scatter before you sort — the decomposition makes the parts sortable |
 | 31 | [Delete a Value from a Linked List](problems/31-delete-a-value-from-a-linked-list/README.md) | You don't destroy the node — you redirect the pointer that reached it |
 | 32 | [Majority Element](problems/32-majority-element/README.md) | You don't find the majority by counting — you find it by canceling |
+| 33 | [Longest Palindromic Substring](problems/33-longest-palindromic-substring/README.md) | A long palindrome is a short one wrapped in matching ends — build integrity from the inside out |
 
 > 💡 Want to add a new problem? See [How to Add a New Entry](#-how-to-add-a-new-entry) above.
 
